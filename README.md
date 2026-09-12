@@ -149,33 +149,49 @@ The application uses a custom tactical interface rather than the default Windows
 
 The main menu provides access to the major game modes and system features.
 
+![Main Menu](Screenshots/MainMenu.jpg)
+
 ### Player Setup
 
 The player setup screen allows users to configure the participants before starting a match.
+
+![Player Setup](Screenshots/PlayerSetup.jpg)
 
 ### AI Setup
 
 The AI setup screen provides configuration for player-versus-AI gameplay and difficulty selection.
 
+![AI Setup](Screenshots/AISetup.jpg)
+
 ### Game Screen
 
 The game screen provides the primary gameplay experience with player information, board interaction, turn indicators, scoring, timer functionality, and match controls.
+
+![Game Screen](Screenshots/GameScreen.jpg)
 
 ### Tournament
 
 The tournament interface allows users to configure participants and start a tournament.
 
+![Tournament](Screenshots/Tournament.jpg)
+
 ### Tournament Bracket
 
 The bracket interface displays tournament rounds, matchups, winners, and progression toward the championship.
+
+![Tournament Bracket](Screenshots/TournamentBracket.jpg)
 
 ### Match History
 
 The history interface provides access to recorded matches and tournament results.
 
+![Match History](Screenshots/MatchHistory.jpg)
+
 ### Leaderboard
 
 The leaderboard displays player rankings and competitive statistics.
+
+![Leaderboard](Screenshots/Leaderboard.jpg)
 
 ## Game Modes
 
