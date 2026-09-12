@@ -1,0 +1,11 @@
+Hur|1|0|0
+Zain|0|1|0
+asif|1|0|0
+Computer|0|3|3
+Amir|1|0|0
+Salman|0|0|1
+haris|1|0|0
+rauf|0|1|0
+Anum|1|0|0
+huma|0|0|1
+arshad|0|0|1
